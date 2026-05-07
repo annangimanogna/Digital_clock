@@ -46,7 +46,16 @@ A counter is used to divide the input clock into a slower clock signal (`clk_1`)
 - Reset applied initially and released after **20 time units**
 - Simulation runtime: **5000 time units**
 
-### Waveform Dump
-```verilog
+## Waveform Dump
 $dumpfile("digital.vcd");
 $dumpvars(0, digital_tb);
+ ## 👩‍💻 Author
+
+**ANNANGI MANOGNA**  
+B.Tech – Electronics and Communication Engineering (ECE)
+
+🔹 Interested in: RTL Design | FPGA | VLSI  
+🔹 Skills: Verilog, Digital Design, Simulation  
+
+🔗 LinkedIn: https://www.linkedin.com/in/annangi-manogna-5b7346273/  
+🔗 GitHub: https://github.com/your-username
